@@ -246,6 +246,33 @@
             }
         });
 
+        let touchStartY = 0;
+        let touchEndY = 0;
+
+        window.addEventListener('touchstart', function(e) {
+            touchStartY = e.touches[0].clientY;
+        });
+
+        window.addEventListener('touchend', function(e) {
+            touchEndY = e.changedTouches[0].clientY;
+            handleSwipe();
+        });
+
+        function handleSwipe() {
+            if (isScrolling) return;
+            const swipeDistance = touchEndY - touchStartY;
+            const threshold = 50;
+
+            if (swipeDistance < -threshold && window.pageYOffset < cover.offsetHeight / 2) {
+                isScrolling = true;
+                content.scrollIntoView({ behavior: "smooth" });
+            } else if (swipeDistance > threshold && window.pageYOffset >= cover.offsetHeight / 2 && content.scrollTop <= 0) {
+                isScrolling = true;
+                cover.scrollIntoView({ behavior: "smooth" });
+            }
+            setTimeout(() => { isScrolling = false; }, 1000);
+        }
+
         const directoryContainer = document.getElementById('directory');
         let baseDirectory = "./courses"
         let currentNode = null;
