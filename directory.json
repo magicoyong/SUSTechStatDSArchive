@@ -1,0 +1,3230 @@
+{
+  "name": "Courses",
+  "path": "",
+  "directories": [
+    {
+      "name": "CS309 面向对象分析与设计",
+      "path": "CS309 面向对象分析与设计",
+      "directories": [
+        {
+          "name": "Assignment",
+          "path": "CS309 面向对象分析与设计/Assignment",
+          "directories": [
+            {
+              "name": "Assignment1 Game",
+              "path": "CS309 面向对象分析与设计/Assignment/Assignment1 Game",
+              "directories": [],
+              "files": [
+                {
+                  "name": "懒得整理了.txt",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment1 Game/懒得整理了.txt"
+                }
+              ]
+            },
+            {
+              "name": "Assignment3 Observer",
+              "path": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer",
+              "directories": [
+                {
+                  "name": ".idea",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/.idea",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": ".gitignore",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/.idea/.gitignore"
+                    },
+                    {
+                      "name": "misc.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/.idea/misc.xml"
+                    },
+                    {
+                      "name": "modules.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/.idea/modules.xml"
+                    },
+                    {
+                      "name": "runConfigurations.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/.idea/runConfigurations.xml"
+                    },
+                    {
+                      "name": "workspace.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/.idea/workspace.xml"
+                    }
+                  ]
+                },
+                {
+                  "name": "out",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out",
+                  "directories": [
+                    {
+                      "name": "production",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production",
+                      "directories": [
+                        {
+                          "name": "observer-original",
+                          "path": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original",
+                          "directories": [],
+                          "files": [
+                            {
+                              "name": "Ball.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/Ball.class"
+                            },
+                            {
+                              "name": "BlueBall.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/BlueBall.class"
+                            },
+                            {
+                              "name": "ButtonPanel.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/ButtonPanel.class"
+                            },
+                            {
+                              "name": "Main.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/Main.class"
+                            },
+                            {
+                              "name": "MainFrame.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/MainFrame.class"
+                            },
+                            {
+                              "name": "MainPanel$GameStatus.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/MainPanel$GameStatus.class"
+                            },
+                            {
+                              "name": "MainPanel.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/MainPanel.class"
+                            },
+                            {
+                              "name": "RedBall.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/RedBall.class"
+                            },
+                            {
+                              "name": "Subject.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/Subject.class"
+                            },
+                            {
+                              "name": "WhiteBall.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/out/production/observer-original/WhiteBall.class"
+                            }
+                          ]
+                        }
+                      ],
+                      "files": []
+                    }
+                  ],
+                  "files": []
+                },
+                {
+                  "name": "src",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "Ball.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/Ball.java"
+                    },
+                    {
+                      "name": "BlueBall.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/BlueBall.java"
+                    },
+                    {
+                      "name": "ButtonPanel.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/ButtonPanel.java"
+                    },
+                    {
+                      "name": "Main.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/Main.java"
+                    },
+                    {
+                      "name": "MainFrame.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/MainFrame.java"
+                    },
+                    {
+                      "name": "MainPanel.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/MainPanel.java"
+                    },
+                    {
+                      "name": "RedBall.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/RedBall.java"
+                    },
+                    {
+                      "name": "Subject.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/Subject.java"
+                    },
+                    {
+                      "name": "WhiteBall.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/src/WhiteBall.java"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": ".DS_Store",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/.DS_Store"
+                },
+                {
+                  "name": "observer-original.iml",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment3 Observer/observer-original.iml"
+                }
+              ]
+            },
+            {
+              "name": "Assignment4 Factory",
+              "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory",
+              "directories": [
+                {
+                  "name": "FactoryMethod",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod",
+                  "directories": [
+                    {
+                      "name": ".idea",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/.idea",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": ".gitignore",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/.idea/.gitignore"
+                        },
+                        {
+                          "name": "misc.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/.idea/misc.xml"
+                        },
+                        {
+                          "name": "modules.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/.idea/modules.xml"
+                        },
+                        {
+                          "name": "runConfigurations.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/.idea/runConfigurations.xml"
+                        },
+                        {
+                          "name": "workspace.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/.idea/workspace.xml"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "out",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out",
+                      "directories": [
+                        {
+                          "name": "production",
+                          "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production",
+                          "directories": [
+                            {
+                              "name": "FactoryMethod",
+                              "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod",
+                              "directories": [
+                                {
+                                  "name": "FactoryMethod",
+                                  "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod",
+                                  "directories": [],
+                                  "files": [
+                                    {
+                                      "name": "ArtDesigner.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/ArtDesigner.class"
+                                    },
+                                    {
+                                      "name": "ArtDesignerFactory.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/ArtDesignerFactory.class"
+                                    },
+                                    {
+                                      "name": "Developer.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/Developer.class"
+                                    },
+                                    {
+                                      "name": "DeveloperFactory.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/DeveloperFactory.class"
+                                    },
+                                    {
+                                      "name": "ITManager.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/ITManager.class"
+                                    },
+                                    {
+                                      "name": "ITManagerFactory.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/ITManagerFactory.class"
+                                    },
+                                    {
+                                      "name": "ITStaff.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/ITStaff.class"
+                                    },
+                                    {
+                                      "name": "ITStaffFactoryInterface.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/ITStaffFactoryInterface.class"
+                                    },
+                                    {
+                                      "name": "Tester.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/Tester.class"
+                                    },
+                                    {
+                                      "name": "TesterFactory.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/TesterFactory.class"
+                                    },
+                                    {
+                                      "name": "client.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/client.class"
+                                    },
+                                    {
+                                      "name": "personInfo.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/out/production/FactoryMethod/FactoryMethod/personInfo.class"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "files": []
+                            }
+                          ],
+                          "files": []
+                        }
+                      ],
+                      "files": []
+                    },
+                    {
+                      "name": "src",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "ArtDesigner.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/ArtDesigner.java"
+                        },
+                        {
+                          "name": "ArtDesignerFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/ArtDesignerFactory.java"
+                        },
+                        {
+                          "name": "Developer.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/Developer.java"
+                        },
+                        {
+                          "name": "DeveloperFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/DeveloperFactory.java"
+                        },
+                        {
+                          "name": "ITManager.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/ITManager.java"
+                        },
+                        {
+                          "name": "ITManagerFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/ITManagerFactory.java"
+                        },
+                        {
+                          "name": "ITStaff.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/ITStaff.java"
+                        },
+                        {
+                          "name": "ITStaffFactoryInterface.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/ITStaffFactoryInterface.java"
+                        },
+                        {
+                          "name": "Tester.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/Tester.java"
+                        },
+                        {
+                          "name": "TesterFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/TesterFactory.java"
+                        },
+                        {
+                          "name": "client.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/client.java"
+                        },
+                        {
+                          "name": "personInfo.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/src/personInfo.java"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "FactoryMethod.iml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/FactoryMethod/FactoryMethod.iml"
+                    }
+                  ]
+                },
+                {
+                  "name": "SimpleFactory",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory",
+                  "directories": [
+                    {
+                      "name": ".idea",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/.idea",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": ".gitignore",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/.idea/.gitignore"
+                        },
+                        {
+                          "name": "misc.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/.idea/misc.xml"
+                        },
+                        {
+                          "name": "modules.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/.idea/modules.xml"
+                        },
+                        {
+                          "name": "runConfigurations.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/.idea/runConfigurations.xml"
+                        },
+                        {
+                          "name": "workspace.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/.idea/workspace.xml"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "out",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out",
+                      "directories": [
+                        {
+                          "name": "production",
+                          "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production",
+                          "directories": [
+                            {
+                              "name": "SimpleFactory",
+                              "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory",
+                              "directories": [
+                                {
+                                  "name": "SimpleFactory",
+                                  "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory",
+                                  "directories": [],
+                                  "files": [
+                                    {
+                                      "name": "Developer.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory/Developer.class"
+                                    },
+                                    {
+                                      "name": "ITManager.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory/ITManager.class"
+                                    },
+                                    {
+                                      "name": "ITStaff.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory/ITStaff.class"
+                                    },
+                                    {
+                                      "name": "ITStaffFactory.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory/ITStaffFactory.class"
+                                    },
+                                    {
+                                      "name": "Tester.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory/Tester.class"
+                                    },
+                                    {
+                                      "name": "client.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory/client.class"
+                                    },
+                                    {
+                                      "name": "personInfo.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/out/production/SimpleFactory/SimpleFactory/personInfo.class"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "files": []
+                            }
+                          ],
+                          "files": []
+                        }
+                      ],
+                      "files": []
+                    },
+                    {
+                      "name": "src",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "Developer.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src/Developer.java"
+                        },
+                        {
+                          "name": "ITManager.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src/ITManager.java"
+                        },
+                        {
+                          "name": "ITStaff.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src/ITStaff.java"
+                        },
+                        {
+                          "name": "ITStaffFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src/ITStaffFactory.java"
+                        },
+                        {
+                          "name": "Tester.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src/Tester.java"
+                        },
+                        {
+                          "name": "client.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src/client.java"
+                        },
+                        {
+                          "name": "personInfo.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/src/personInfo.java"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "SimpleFactory.iml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/SimpleFactory/SimpleFactory.iml"
+                    }
+                  ]
+                },
+                {
+                  "name": "StaticFactory",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory",
+                  "directories": [
+                    {
+                      "name": ".idea",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/.idea",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": ".gitignore",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/.idea/.gitignore"
+                        },
+                        {
+                          "name": "misc.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/.idea/misc.xml"
+                        },
+                        {
+                          "name": "modules.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/.idea/modules.xml"
+                        },
+                        {
+                          "name": "runConfigurations.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/.idea/runConfigurations.xml"
+                        },
+                        {
+                          "name": "workspace.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/.idea/workspace.xml"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "out",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out",
+                      "directories": [
+                        {
+                          "name": "production",
+                          "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production",
+                          "directories": [
+                            {
+                              "name": "StaticFactory",
+                              "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory",
+                              "directories": [
+                                {
+                                  "name": "StaticFactory",
+                                  "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory",
+                                  "directories": [],
+                                  "files": [
+                                    {
+                                      "name": "Developer.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory/Developer.class"
+                                    },
+                                    {
+                                      "name": "ITManager.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory/ITManager.class"
+                                    },
+                                    {
+                                      "name": "ITStaff.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory/ITStaff.class"
+                                    },
+                                    {
+                                      "name": "ITStaffFactory.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory/ITStaffFactory.class"
+                                    },
+                                    {
+                                      "name": "Tester.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory/Tester.class"
+                                    },
+                                    {
+                                      "name": "client.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory/client.class"
+                                    },
+                                    {
+                                      "name": "personInfo.class",
+                                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/out/production/StaticFactory/StaticFactory/personInfo.class"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "files": []
+                            }
+                          ],
+                          "files": []
+                        }
+                      ],
+                      "files": []
+                    },
+                    {
+                      "name": "src",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "Developer.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src/Developer.java"
+                        },
+                        {
+                          "name": "ITManager.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src/ITManager.java"
+                        },
+                        {
+                          "name": "ITStaff.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src/ITStaff.java"
+                        },
+                        {
+                          "name": "ITStaffFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src/ITStaffFactory.java"
+                        },
+                        {
+                          "name": "Tester.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src/Tester.java"
+                        },
+                        {
+                          "name": "client.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src/client.java"
+                        },
+                        {
+                          "name": "personInfo.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/src/personInfo.java"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "StaticFactory.iml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/StaticFactory/StaticFactory.iml"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "Developer.java",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/Developer.java"
+                },
+                {
+                  "name": "ITManager.java",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/ITManager.java"
+                },
+                {
+                  "name": "ITStaff.java",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/ITStaff.java"
+                },
+                {
+                  "name": "Tester.java",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/Tester.java"
+                },
+                {
+                  "name": "client.java",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/client.java"
+                },
+                {
+                  "name": "personInfo.java",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment4 Factory/personInfo.java"
+                }
+              ]
+            },
+            {
+              "name": "Assignment5 Abstract Factory",
+              "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory",
+              "directories": [
+                {
+                  "name": ".idea",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/.idea",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": ".gitignore",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/.idea/.gitignore"
+                    },
+                    {
+                      "name": "misc.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/.idea/misc.xml"
+                    },
+                    {
+                      "name": "modules.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/.idea/modules.xml"
+                    },
+                    {
+                      "name": "runConfigurations.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/.idea/runConfigurations.xml"
+                    },
+                    {
+                      "name": "uiDesigner.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/.idea/uiDesigner.xml"
+                    },
+                    {
+                      "name": "workspace.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/.idea/workspace.xml"
+                    }
+                  ]
+                },
+                {
+                  "name": "out",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out",
+                  "directories": [
+                    {
+                      "name": "production",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production",
+                      "directories": [
+                        {
+                          "name": "Abstract Factory",
+                          "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory",
+                          "directories": [
+                            {
+                              "name": "bean",
+                              "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/bean",
+                              "directories": [],
+                              "files": [
+                                {
+                                  "name": "Computer.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/bean/Computer.class"
+                                },
+                                {
+                                  "name": "Staff.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/bean/Staff.class"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "dao",
+                              "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao",
+                              "directories": [],
+                              "files": [
+                                {
+                                  "name": "ComputerDao.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/ComputerDao.class"
+                                },
+                                {
+                                  "name": "DaoFactory.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/DaoFactory.class"
+                                },
+                                {
+                                  "name": "DaoFactoryImpl.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/DaoFactoryImpl.class"
+                                },
+                                {
+                                  "name": "MysqlComputerDao.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/MysqlComputerDao.class"
+                                },
+                                {
+                                  "name": "MysqlDaoFactory.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/MysqlDaoFactory.class"
+                                },
+                                {
+                                  "name": "MysqlStaffDao.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/MysqlStaffDao.class"
+                                },
+                                {
+                                  "name": "SqlServerComputerDao.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/SqlServerComputerDao.class"
+                                },
+                                {
+                                  "name": "SqlServerFactory.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/SqlServerFactory.class"
+                                },
+                                {
+                                  "name": "SqlServerStaffDao.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/SqlServerStaffDao.class"
+                                },
+                                {
+                                  "name": "StaffDao.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/dao/StaffDao.class"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "service",
+                              "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/service",
+                              "directories": [],
+                              "files": [
+                                {
+                                  "name": "client.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/out/production/Abstract Factory/service/client.class"
+                                }
+                              ]
+                            }
+                          ],
+                          "files": []
+                        }
+                      ],
+                      "files": []
+                    }
+                  ],
+                  "files": []
+                },
+                {
+                  "name": "resource",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/resource",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "resource.properties",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/resource/resource.properties"
+                    }
+                  ]
+                },
+                {
+                  "name": "src",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src",
+                  "directories": [
+                    {
+                      "name": "bean",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/bean",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "Computer.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/bean/Computer.java"
+                        },
+                        {
+                          "name": "Staff.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/bean/Staff.java"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "dao",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "ComputerDao.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/ComputerDao.java"
+                        },
+                        {
+                          "name": "DaoFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/DaoFactory.java"
+                        },
+                        {
+                          "name": "DaoFactoryImpl.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/DaoFactoryImpl.java"
+                        },
+                        {
+                          "name": "MysqlComputerDao.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/MysqlComputerDao.java"
+                        },
+                        {
+                          "name": "MysqlDaoFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/MysqlDaoFactory.java"
+                        },
+                        {
+                          "name": "MysqlStaffDao.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/MysqlStaffDao.java"
+                        },
+                        {
+                          "name": "SqlServerComputerDao.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/SqlServerComputerDao.java"
+                        },
+                        {
+                          "name": "SqlServerFactory.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/SqlServerFactory.java"
+                        },
+                        {
+                          "name": "SqlServerStaffDao.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/SqlServerStaffDao.java"
+                        },
+                        {
+                          "name": "StaffDao.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/dao/StaffDao.java"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "service",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/service",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "client.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/src/service/client.java"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": []
+                }
+              ],
+              "files": [
+                {
+                  "name": "Abstract Factory.iml",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment5 Abstract Factory/Abstract Factory.iml"
+                }
+              ]
+            },
+            {
+              "name": "Assignment6 Adapter",
+              "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter",
+              "directories": [
+                {
+                  "name": ".idea",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea",
+                  "directories": [
+                    {
+                      "name": "libraries",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea/libraries",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "lib.xml",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea/libraries/lib.xml"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": ".gitignore",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea/.gitignore"
+                    },
+                    {
+                      "name": "misc.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea/misc.xml"
+                    },
+                    {
+                      "name": "modules.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea/modules.xml"
+                    },
+                    {
+                      "name": "runConfigurations.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea/runConfigurations.xml"
+                    },
+                    {
+                      "name": "workspace.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.idea/workspace.xml"
+                    }
+                  ]
+                },
+                {
+                  "name": "lib",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/lib",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "fastjson-1.2.79.jar",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/lib/fastjson-1.2.79.jar"
+                    },
+                    {
+                      "name": "jsoup-1.7.1.jar",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/lib/jsoup-1.7.1.jar"
+                    }
+                  ]
+                },
+                {
+                  "name": "out",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out",
+                  "directories": [
+                    {
+                      "name": "production",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production",
+                      "directories": [
+                        {
+                          "name": "adapter-original",
+                          "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original",
+                          "directories": [
+                            {
+                              "name": "original",
+                              "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original",
+                              "directories": [],
+                              "files": [
+                                {
+                                  "name": "Adapter.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/Adapter.class"
+                                },
+                                {
+                                  "name": "Adapter2.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/Adapter2.class"
+                                },
+                                {
+                                  "name": "Client.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/Client.class"
+                                },
+                                {
+                                  "name": "Client2.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/Client2.class"
+                                },
+                                {
+                                  "name": "FileOperate.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/FileOperate.class"
+                                },
+                                {
+                                  "name": "FileOperateInterfaceV1.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/FileOperateInterfaceV1.class"
+                                },
+                                {
+                                  "name": "FileOperateInterfaceV2.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/FileOperateInterfaceV2.class"
+                                },
+                                {
+                                  "name": "FileOperateInterfaceV3.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/FileOperateInterfaceV3.class"
+                                },
+                                {
+                                  "name": "ManageStaff.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/ManageStaff.class"
+                                },
+                                {
+                                  "name": "ManageStaffInterface.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/ManageStaffInterface.class"
+                                },
+                                {
+                                  "name": "StaffModel.class",
+                                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/out/production/adapter-original/original/StaffModel.class"
+                                }
+                              ]
+                            }
+                          ],
+                          "files": []
+                        }
+                      ],
+                      "files": []
+                    }
+                  ],
+                  "files": []
+                },
+                {
+                  "name": "resource",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/resource",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "staff.txt",
+                      "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/resource/staff.txt"
+                    }
+                  ]
+                },
+                {
+                  "name": "src",
+                  "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src",
+                  "directories": [
+                    {
+                      "name": "original",
+                      "path": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "Adapter.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/Adapter.java"
+                        },
+                        {
+                          "name": "Adapter2.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/Adapter2.java"
+                        },
+                        {
+                          "name": "Client.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/Client.java"
+                        },
+                        {
+                          "name": "Client2.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/Client2.java"
+                        },
+                        {
+                          "name": "FileOperate.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/FileOperate.java"
+                        },
+                        {
+                          "name": "FileOperateInterfaceV1.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/FileOperateInterfaceV1.java"
+                        },
+                        {
+                          "name": "FileOperateInterfaceV2.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/FileOperateInterfaceV2.java"
+                        },
+                        {
+                          "name": "FileOperateInterfaceV3.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/FileOperateInterfaceV3.java"
+                        },
+                        {
+                          "name": "ManageStaff.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/ManageStaff.java"
+                        },
+                        {
+                          "name": "ManageStaffInterface.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/ManageStaffInterface.java"
+                        },
+                        {
+                          "name": "StaffModel.java",
+                          "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/src/original/StaffModel.java"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": []
+                }
+              ],
+              "files": [
+                {
+                  "name": ".DS_Store",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/.DS_Store"
+                },
+                {
+                  "name": "adapter-original.iml",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment6 Adapter/adapter-original.iml"
+                }
+              ]
+            },
+            {
+              "name": "Assignment7 Dependency Injection",
+              "path": "CS309 面向对象分析与设计/Assignment/Assignment7 Dependency Injection",
+              "directories": [],
+              "files": [
+                {
+                  "name": "没写.txt",
+                  "url": "CS309 面向对象分析与设计/Assignment/Assignment7 Dependency Injection/没写.txt"
+                }
+              ]
+            },
+            {
+              "name": "AssignmentN Command",
+              "path": "CS309 面向对象分析与设计/Assignment/AssignmentN Command",
+              "directories": [
+                {
+                  "name": ".idea",
+                  "path": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/.idea",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": ".gitignore",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/.idea/.gitignore"
+                    },
+                    {
+                      "name": "misc.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/.idea/misc.xml"
+                    },
+                    {
+                      "name": "modules.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/.idea/modules.xml"
+                    },
+                    {
+                      "name": "runConfigurations.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/.idea/runConfigurations.xml"
+                    },
+                    {
+                      "name": "workspace.xml",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/.idea/workspace.xml"
+                    }
+                  ]
+                },
+                {
+                  "name": "out",
+                  "path": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out",
+                  "directories": [
+                    {
+                      "name": "production",
+                      "path": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production",
+                      "directories": [
+                        {
+                          "name": "Command_Original",
+                          "path": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original",
+                          "directories": [],
+                          "files": [
+                            {
+                              "name": "AirConditioner.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/AirConditioner.class"
+                            },
+                            {
+                              "name": "AirConditionerOffCommand.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/AirConditionerOffCommand.class"
+                            },
+                            {
+                              "name": "AirConditionerOnCommand.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/AirConditionerOnCommand.class"
+                            },
+                            {
+                              "name": "Client.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/Client.class"
+                            },
+                            {
+                              "name": "Command.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/Command.class"
+                            },
+                            {
+                              "name": "Light.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/Light.class"
+                            },
+                            {
+                              "name": "LightOffCommand.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/LightOffCommand.class"
+                            },
+                            {
+                              "name": "LightOnCommand.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/LightOnCommand.class"
+                            },
+                            {
+                              "name": "RemoteCommandQueue.class",
+                              "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/out/production/Command_Original/RemoteCommandQueue.class"
+                            }
+                          ]
+                        }
+                      ],
+                      "files": []
+                    }
+                  ],
+                  "files": []
+                },
+                {
+                  "name": "src",
+                  "path": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "AirConditioner.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/AirConditioner.java"
+                    },
+                    {
+                      "name": "AirConditionerOffCommand.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/AirConditionerOffCommand.java"
+                    },
+                    {
+                      "name": "AirConditionerOnCommand.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/AirConditionerOnCommand.java"
+                    },
+                    {
+                      "name": "Client.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/Client.java"
+                    },
+                    {
+                      "name": "Command.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/Command.java"
+                    },
+                    {
+                      "name": "Light.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/Light.java"
+                    },
+                    {
+                      "name": "LightOffCommand.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/LightOffCommand.java"
+                    },
+                    {
+                      "name": "LightOnCommand.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/LightOnCommand.java"
+                    },
+                    {
+                      "name": "RemoteCommandQueue.java",
+                      "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/src/RemoteCommandQueue.java"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": ".DS_Store",
+                  "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/.DS_Store"
+                },
+                {
+                  "name": "Command_Original.iml",
+                  "url": "CS309 面向对象分析与设计/Assignment/AssignmentN Command/Command_Original.iml"
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment2_UML.pdf",
+              "url": "CS309 面向对象分析与设计/Assignment/12112627_李乐平_Assignment2_UML.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "MA107A 线性代数A",
+      "path": "MA107A 线性代数A",
+      "directories": [
+        {
+          "name": "Assignment",
+          "path": "MA107A 线性代数A/Assignment",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_第10周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第10周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第10周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第10周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第11周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第11周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第11周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第11周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第12周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第12周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第13周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第13周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第14周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第14周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第14周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第14周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第15周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第15周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第15周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第15周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第1次线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第1次线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第1次线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第1次线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第2周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第2周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第2周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第2周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第3周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第3周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第3周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第3周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第4周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第4周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第5周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第5周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第5周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第5周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第6周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第6周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第6周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第6周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第7周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第7周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第7周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第7周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第8周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第8周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第8周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第8周线代作业（补充题）.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第9周线代作业.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第9周线代作业.pdf"
+            },
+            {
+              "name": "12112627_李乐平_第9周线代作业（补充题）.pdf",
+              "url": "MA107A 线性代数A/Assignment/12112627_李乐平_第9周线代作业（补充题）.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "MA201a 数学分析III",
+      "path": "MA201a 数学分析III",
+      "directories": [
+        {
+          "name": "Exam",
+          "path": "MA201a 数学分析III/Exam",
+          "directories": [],
+          "files": [
+            {
+              "name": "2022秋 数学分析III 期末（回忆版）.pdf",
+              "url": "MA201a 数学分析III/Exam/2022秋 数学分析III 期末（回忆版）.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "MA204 数理统计",
+      "path": "MA204 数理统计",
+      "directories": [
+        {
+          "name": "Assignment",
+          "path": "MA204 数理统计/Assignment",
+          "directories": [],
+          "files": []
+        },
+        {
+          "name": "Cheating Paper",
+          "path": "MA204 数理统计/Cheating Paper",
+          "directories": [],
+          "files": [
+            {
+              "name": "Cheating paper for final.pdf",
+              "url": "MA204 数理统计/Cheating Paper/Cheating paper for final.pdf"
+            },
+            {
+              "name": "Cheating paper for midterm.pdf",
+              "url": "MA204 数理统计/Cheating Paper/Cheating paper for midterm.pdf"
+            },
+            {
+              "name": "如需word版请私信我.txt",
+              "url": "MA204 数理统计/Cheating Paper/如需word版请私信我.txt"
+            }
+          ]
+        },
+        {
+          "name": "Exam",
+          "path": "MA204 数理统计/Exam",
+          "directories": [],
+          "files": [
+            {
+              "name": "私信找我.txt",
+              "url": "MA204 数理统计/Exam/私信找我.txt"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "MA215 概率论",
+      "path": "MA215 概率论",
+      "directories": [
+        {
+          "name": "Exam",
+          "path": "MA215 概率论/Exam",
+          "directories": [],
+          "files": [
+            {
+              "name": "2022秋 概率论 期末（回忆版）.pdf",
+              "url": "MA215 概率论/Exam/2022秋 概率论 期末（回忆版）.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "MA304 多元统计分析",
+      "path": "MA304 多元统计分析",
+      "directories": [
+        {
+          "name": "Assignment Code",
+          "path": "MA304 多元统计分析/Assignment Code",
+          "directories": [
+            {
+              "name": "Assignment3",
+              "path": "MA304 多元统计分析/Assignment Code/Assignment3",
+              "directories": [
+                {
+                  "name": ".ipynb_checkpoints",
+                  "path": "MA304 多元统计分析/Assignment Code/Assignment3/.ipynb_checkpoints",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "10_3-checkpoint.ipynb",
+                      "url": "MA304 多元统计分析/Assignment Code/Assignment3/.ipynb_checkpoints/10_3-checkpoint.ipynb"
+                    },
+                    {
+                      "name": "Untitled-checkpoint.ipynb",
+                      "url": "MA304 多元统计分析/Assignment Code/Assignment3/.ipynb_checkpoints/Untitled-checkpoint.ipynb"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "10_3.csv",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment3/10_3.csv"
+                },
+                {
+                  "name": "10_3.ipynb",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment3/10_3.ipynb"
+                },
+                {
+                  "name": "test.csv",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment3/test.csv"
+                },
+                {
+                  "name": "test.xlsx",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment3/test.xlsx"
+                }
+              ]
+            },
+            {
+              "name": "Assignment4",
+              "path": "MA304 多元统计分析/Assignment Code/Assignment4",
+              "directories": [],
+              "files": [
+                {
+                  "name": "4_1.csv",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment4/4_1.csv"
+                },
+                {
+                  "name": "4_10.csv",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment4/4_10.csv"
+                },
+                {
+                  "name": "4_3.csv",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment4/4_3.csv"
+                },
+                {
+                  "name": "Assignment_4.ipynb",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment4/Assignment_4.ipynb"
+                },
+                {
+                  "name": "test.csv",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment4/test.csv"
+                }
+              ]
+            },
+            {
+              "name": "Assignment5",
+              "path": "MA304 多元统计分析/Assignment Code/Assignment5",
+              "directories": [],
+              "files": [
+                {
+                  "name": "data_5_4.xlsx",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment5/data_5_4.xlsx"
+                },
+                {
+                  "name": "data_5_7.xlsx",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment5/data_5_7.xlsx"
+                },
+                {
+                  "name": "examp5.4.1.xlsx",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment5/examp5.4.1.xlsx"
+                },
+                {
+                  "name": "main.ipynb",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment5/main.ipynb"
+                }
+              ]
+            },
+            {
+              "name": "Assignment6",
+              "path": "MA304 多元统计分析/Assignment Code/Assignment6",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_HW6Q7_7.ipynb",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment6/12112627_李乐平_HW6Q7_7.ipynb"
+                },
+                {
+                  "name": "exec7.7data.xlsx",
+                  "url": "MA304 多元统计分析/Assignment Code/Assignment6/exec7.7data.xlsx"
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "name": "Assignment Doc",
+          "path": "MA304 多元统计分析/Assignment Doc",
+          "directories": [
+            {
+              "name": "Assignment3",
+              "path": "MA304 多元统计分析/Assignment Doc/Assignment3",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Assignment_3_10_3.pdf",
+                  "url": "MA304 多元统计分析/Assignment Doc/Assignment3/12112627_李乐平_Assignment_3_10_3.pdf"
+                }
+              ]
+            },
+            {
+              "name": "Assignment4",
+              "path": "MA304 多元统计分析/Assignment Doc/Assignment4",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Assignment_4_横版.pdf",
+                  "url": "MA304 多元统计分析/Assignment Doc/Assignment4/12112627_李乐平_Assignment_4_横版.pdf"
+                }
+              ]
+            },
+            {
+              "name": "Assignment5",
+              "path": "MA304 多元统计分析/Assignment Doc/Assignment5",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Assignment_5.pdf",
+                  "url": "MA304 多元统计分析/Assignment Doc/Assignment5/12112627_李乐平_Assignment_5.pdf"
+                }
+              ]
+            },
+            {
+              "name": "Assignment6",
+              "path": "MA304 多元统计分析/Assignment Doc/Assignment6",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_HW6Q7_7 - Jupyter Notebook.pdf",
+                  "url": "MA304 多元统计分析/Assignment Doc/Assignment6/12112627_李乐平_HW6Q7_7 - Jupyter Notebook.pdf"
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "name": "书面题答案私下找我.txt",
+              "url": "MA304 多元统计分析/Assignment Doc/书面题答案私下找我.txt"
+            }
+          ]
+        },
+        {
+          "name": "Cheating Paper",
+          "path": "MA304 多元统计分析/Cheating Paper",
+          "directories": [],
+          "files": [
+            {
+              "name": "Cheating paper for final.pdf",
+              "url": "MA304 多元统计分析/Cheating Paper/Cheating paper for final.pdf"
+            },
+            {
+              "name": "如需word版请私信我.txt",
+              "url": "MA304 多元统计分析/Cheating Paper/如需word版请私信我.txt"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "MA329 统计线性模型",
+      "path": "MA329 统计线性模型",
+      "directories": [
+        {
+          "name": "Assignment",
+          "path": "MA329 统计线性模型/Assignment",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment_1.pdf",
+              "url": "MA329 统计线性模型/Assignment/12112627_李乐平_Assignment_1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment_5.pdf",
+              "url": "MA329 统计线性模型/Assignment/12112627_李乐平_Assignment_5.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Cheating Paper",
+          "path": "MA329 统计线性模型/Cheating Paper",
+          "directories": [],
+          "files": [
+            {
+              "name": "Cheating paper for final.pdf",
+              "url": "MA329 统计线性模型/Cheating Paper/Cheating paper for final.pdf"
+            },
+            {
+              "name": "Cheating paper for midterm.pdf",
+              "url": "MA329 统计线性模型/Cheating Paper/Cheating paper for midterm.pdf"
+            },
+            {
+              "name": "如需word版请私信我.txt",
+              "url": "MA329 统计线性模型/Cheating Paper/如需word版请私信我.txt"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "MA409 统计数据分析 (SAS)",
+      "path": "MA409 统计数据分析 (SAS)",
+      "directories": [
+        {
+          "name": "Assignment Code",
+          "path": "MA409 统计数据分析 (SAS)/Assignment Code",
+          "directories": [
+            {
+              "name": "Assignment 5",
+              "path": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Assignment_5.sas",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/12112627_李乐平_Assignment_5.sas"
+                },
+                {
+                  "name": "Assignment5_tan.sas",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Assignment5_tan.sas"
+                },
+                {
+                  "name": "Average Monthly Hours.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Average Monthly Hours.png"
+                },
+                {
+                  "name": "HRdata.csv",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/HRdata.csv"
+                },
+                {
+                  "name": "Last Evaluation.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Last Evaluation.png"
+                },
+                {
+                  "name": "Number of Projects.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Number of Projects.png"
+                },
+                {
+                  "name": "Problem 2.ipynb",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Problem 2.ipynb"
+                },
+                {
+                  "name": "Promotion in Last 5 Years.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Promotion in Last 5 Years.png"
+                },
+                {
+                  "name": "Salary.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Salary.png"
+                },
+                {
+                  "name": "Satisfaction Level.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Satisfaction Level.png"
+                },
+                {
+                  "name": "Time Spent on Company.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Time Spent on Company.png"
+                },
+                {
+                  "name": "Work Accident.png",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/Work Accident.png"
+                },
+                {
+                  "name": "car.xlsx",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/car.xlsx"
+                },
+                {
+                  "name": "disease.xlsx",
+                  "url": "MA409 统计数据分析 (SAS)/Assignment Code/Assignment 5/disease.xlsx"
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment_1.sas",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Code/12112627_李乐平_Assignment_1.sas"
+            },
+            {
+              "name": "12112627_李乐平_Assignment_2.sas",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Code/12112627_李乐平_Assignment_2.sas"
+            },
+            {
+              "name": "12112627_李乐平_Assignment_3.sas",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Code/12112627_李乐平_Assignment_3.sas"
+            },
+            {
+              "name": "12112627_李乐平_Assignment_4.sas",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Code/12112627_李乐平_Assignment_4.sas"
+            }
+          ]
+        },
+        {
+          "name": "Assignment Doc",
+          "path": "MA409 统计数据分析 (SAS)/Assignment Doc",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment1.pdf",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Doc/12112627_李乐平_Assignment1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment2.pdf",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Doc/12112627_李乐平_Assignment2.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment3.pdf",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Doc/12112627_李乐平_Assignment3.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment4.pdf",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Doc/12112627_李乐平_Assignment4.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment5.pdf",
+              "url": "MA409 统计数据分析 (SAS)/Assignment Doc/12112627_李乐平_Assignment5.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Cheating Paper",
+          "path": "MA409 统计数据分析 (SAS)/Cheating Paper",
+          "directories": [],
+          "files": [
+            {
+              "name": "Cheating paper for final.pdf",
+              "url": "MA409 统计数据分析 (SAS)/Cheating Paper/Cheating paper for final.pdf"
+            },
+            {
+              "name": "如需word版请私信我.txt",
+              "url": "MA409 统计数据分析 (SAS)/Cheating Paper/如需word版请私信我.txt"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "STA201 运筹与优化",
+      "path": "STA201 运筹与优化",
+      "directories": [
+        {
+          "name": "Assignment",
+          "path": "STA201 运筹与优化/Assignment",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_运筹与优化_Assignment1.pdf",
+              "url": "STA201 运筹与优化/Assignment/12112627_李乐平_运筹与优化_Assignment1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_运筹与优化_Assignment2.pdf",
+              "url": "STA201 运筹与优化/Assignment/12112627_李乐平_运筹与优化_Assignment2.pdf"
+            },
+            {
+              "name": "12112627_李乐平_运筹与优化_Assignment3.pdf",
+              "url": "STA201 运筹与优化/Assignment/12112627_李乐平_运筹与优化_Assignment3.pdf"
+            },
+            {
+              "name": "12112627_李乐平_运筹与优化_Assignment4.pdf",
+              "url": "STA201 运筹与优化/Assignment/12112627_李乐平_运筹与优化_Assignment4.pdf"
+            },
+            {
+              "name": "12112627_李乐平_运筹与优化_Assignment5.pdf",
+              "url": "STA201 运筹与优化/Assignment/12112627_李乐平_运筹与优化_Assignment5.pdf"
+            },
+            {
+              "name": "12112627_李乐平_运筹与优化_Assignment6.pdf",
+              "url": "STA201 运筹与优化/Assignment/12112627_李乐平_运筹与优化_Assignment6.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "STA204 离散数学及其应用",
+      "path": "STA204 离散数学及其应用",
+      "directories": [
+        {
+          "name": "Exam",
+          "path": "STA204 离散数学及其应用/Exam",
+          "directories": [],
+          "files": [
+            {
+              "name": "2022秋 离散数学及其应用 期末（回忆版）.pdf",
+              "url": "STA204 离散数学及其应用/Exam/2022秋 离散数学及其应用 期末（回忆版）.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "STA217 数据科学导论",
+      "path": "STA217 数据科学导论",
+      "directories": [
+        {
+          "name": "Assignment Code",
+          "path": "STA217 数据科学导论/Assignment Code",
+          "directories": [
+            {
+              "name": "Assignment 1",
+              "path": "STA217 数据科学导论/Assignment Code/Assignment 1",
+              "directories": [],
+              "files": [
+                {
+                  "name": "HW01.ipynb",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 1/HW01.ipynb"
+                },
+                {
+                  "name": "chaining_method_calls.jpg",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 1/chaining_method_calls.jpg"
+                },
+                {
+                  "name": "map.jpg",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 1/map.jpg"
+                },
+                {
+                  "name": "videoApollo.mp4",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 1/videoApollo.mp4"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 2",
+              "path": "STA217 数据科学导论/Assignment Code/Assignment 2",
+              "directories": [
+                {
+                  "name": ".ipynb_checkpoints",
+                  "path": "STA217 数据科学导论/Assignment Code/Assignment 2/.ipynb_checkpoints",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "hw02_part2-checkpoint.ipynb",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 2/.ipynb_checkpoints/hw02_part2-checkpoint.ipynb"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "Transcripts_63RD_ANNUAL_GRAMMY_AWARDS_2021.txt",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 2/Transcripts_63RD_ANNUAL_GRAMMY_AWARDS_2021.txt"
+                },
+                {
+                  "name": "hw02_part2.ipynb",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 2/hw02_part2.ipynb"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 3",
+              "path": "STA217 数据科学导论/Assignment Code/Assignment 3",
+              "directories": [
+                {
+                  "name": ".ipynb_checkpoints",
+                  "path": "STA217 数据科学导论/Assignment Code/Assignment 3/.ipynb_checkpoints",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "HW03-checkpoint.ipynb",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 3/.ipynb_checkpoints/HW03-checkpoint.ipynb"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "HW03.ipynb",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 3/HW03.ipynb"
+                },
+                {
+                  "name": "Salaries.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 3/Salaries.csv"
+                },
+                {
+                  "name": "baby_name_NY.TXT",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 3/baby_name_NY.TXT"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 4",
+              "path": "STA217 数据科学导论/Assignment Code/Assignment 4",
+              "directories": [
+                {
+                  "name": ".ipynb_checkpoints",
+                  "path": "STA217 数据科学导论/Assignment Code/Assignment 4/.ipynb_checkpoints",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "HW04-checkpoint.ipynb",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 4/.ipynb_checkpoints/HW04-checkpoint.ipynb"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "HW04.ipynb",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 4/HW04.ipynb"
+                },
+                {
+                  "name": "insurance.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 4/insurance.csv"
+                },
+                {
+                  "name": "state_abbrevs.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 4/state_abbrevs.csv"
+                },
+                {
+                  "name": "state_areas.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 4/state_areas.csv"
+                },
+                {
+                  "name": "state_population.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 4/state_population.csv"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 5",
+              "path": "STA217 数据科学导论/Assignment Code/Assignment 5",
+              "directories": [
+                {
+                  "name": ".ipynb_checkpoints",
+                  "path": "STA217 数据科学导论/Assignment Code/Assignment 5/.ipynb_checkpoints",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "HW05-checkpoint.ipynb",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 5/.ipynb_checkpoints/HW05-checkpoint.ipynb"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "HW05.ipynb",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 5/HW05.ipynb"
+                },
+                {
+                  "name": "got-s1-edges.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 5/got-s1-edges.csv"
+                },
+                {
+                  "name": "got-s1-nodes.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 5/got-s1-nodes.csv"
+                },
+                {
+                  "name": "online_user_followers.csv",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 5/online_user_followers.csv"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 6",
+              "path": "STA217 数据科学导论/Assignment Code/Assignment 6",
+              "directories": [
+                {
+                  "name": ".ipynb_checkpoints",
+                  "path": "STA217 数据科学导论/Assignment Code/Assignment 6/.ipynb_checkpoints",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "HW06-checkpoint.ipynb",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 6/.ipynb_checkpoints/HW06-checkpoint.ipynb"
+                    }
+                  ]
+                },
+                {
+                  "name": "data",
+                  "path": "STA217 数据科学导论/Assignment Code/Assignment 6/data",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "bikeshare.zip",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 6/data/bikeshare.zip"
+                    },
+                    {
+                      "name": "world_bank_misc.csv",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 6/data/world_bank_misc.csv"
+                    }
+                  ]
+                },
+                {
+                  "name": "images",
+                  "path": "STA217 数据科学导论/Assignment Code/Assignment 6/images",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "bivariate_kde_of_daily_rider_types.png",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 6/images/bivariate_kde_of_daily_rider_types.png"
+                    },
+                    {
+                      "name": "casual_registered_working_nonworking.png",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 6/images/casual_registered_working_nonworking.png"
+                    },
+                    {
+                      "name": "casual_v_registered.png",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 6/images/casual_v_registered.png"
+                    },
+                    {
+                      "name": "joint_distribution_of_daily_rider_types.png",
+                      "url": "STA217 数据科学导论/Assignment Code/Assignment 6/images/joint_distribution_of_daily_rider_types.png"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "HW06.ipynb",
+                  "url": "STA217 数据科学导论/Assignment Code/Assignment 6/HW06.ipynb"
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "name": "Assignment Doc",
+          "path": "STA217 数据科学导论/Assignment Doc",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment1.pdf",
+              "url": "STA217 数据科学导论/Assignment Doc/12112627_李乐平_Assignment1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment2.pdf",
+              "url": "STA217 数据科学导论/Assignment Doc/12112627_李乐平_Assignment2.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment3.pdf",
+              "url": "STA217 数据科学导论/Assignment Doc/12112627_李乐平_Assignment3.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment4.pdf",
+              "url": "STA217 数据科学导论/Assignment Doc/12112627_李乐平_Assignment4.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment5.pdf",
+              "url": "STA217 数据科学导论/Assignment Doc/12112627_李乐平_Assignment5.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment6.pdf",
+              "url": "STA217 数据科学导论/Assignment Doc/12112627_李乐平_Assignment6.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "STA320 统计学习",
+      "path": "STA320 统计学习",
+      "directories": [
+        {
+          "name": "Assignment Code",
+          "path": "STA320 统计学习/Assignment Code",
+          "directories": [
+            {
+              "name": "Assignment 1",
+              "path": "STA320 统计学习/Assignment Code/Assignment 1",
+              "directories": [],
+              "files": [
+                {
+                  "name": "Prostate Cancer.ipynb",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 1/Prostate Cancer.ipynb"
+                },
+                {
+                  "name": "Reproducing Prostate Cancer Example.ipynb",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 1/Reproducing Prostate Cancer Example.ipynb"
+                },
+                {
+                  "name": "hastie.su.domains_ElemStatLearn_datasets_prostate.data.csv",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 1/hastie.su.domains_ElemStatLearn_datasets_prostate.data.csv"
+                },
+                {
+                  "name": "prostate_cancer_data.csv",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 1/prostate_cancer_data.csv"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 2",
+              "path": "STA320 统计学习/Assignment Code/Assignment 2",
+              "directories": [
+                {
+                  "name": "ISLR4.7.10_files",
+                  "path": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10_files",
+                  "directories": [
+                    {
+                      "name": "figure-latex",
+                      "path": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10_files/figure-latex",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "unnamed-chunk-18-1.pdf",
+                          "url": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10_files/figure-latex/unnamed-chunk-18-1.pdf"
+                        },
+                        {
+                          "name": "unnamed-chunk-3-1.pdf",
+                          "url": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10_files/figure-latex/unnamed-chunk-3-1.pdf"
+                        },
+                        {
+                          "name": "unnamed-chunk-4-1.pdf",
+                          "url": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10_files/figure-latex/unnamed-chunk-4-1.pdf"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": []
+                }
+              ],
+              "files": [
+                {
+                  "name": ".RData",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/.RData"
+                },
+                {
+                  "name": ".Rhistory",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/.Rhistory"
+                },
+                {
+                  "name": "000010.png",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/000010.png"
+                },
+                {
+                  "name": "12112627_李乐平.Rmd",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平.Rmd"
+                },
+                {
+                  "name": "12112627_李乐平.docx",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平.docx"
+                },
+                {
+                  "name": "12112627_李乐平_Homework2(ROC plots supplemented).pdf",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平_Homework2(ROC plots supplemented).pdf"
+                },
+                {
+                  "name": "12112627_李乐平_Homework2_backup.pdf",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平_Homework2_backup.pdf"
+                },
+                {
+                  "name": "Heart.csv",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/Heart.csv"
+                },
+                {
+                  "name": "ISLR4.7.10.docx",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10.docx"
+                },
+                {
+                  "name": "ISLR4.7.10.html",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10.html"
+                },
+                {
+                  "name": "ISLR4.7.10.html.bak",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10.html.bak"
+                },
+                {
+                  "name": "ISLR4.7.10.tex",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 2/ISLR4.7.10.tex"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 3",
+              "path": "STA320 统计学习/Assignment Code/Assignment 3",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Homework3.ipynb",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 3/12112627_李乐平_Homework3.ipynb"
+                },
+                {
+                  "name": "Ch10Ex11.csv",
+                  "url": "STA320 统计学习/Assignment Code/Assignment 3/Ch10Ex11.csv"
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "name": "Assignment Doc",
+          "path": "STA320 统计学习/Assignment Doc",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_Homework1.pdf",
+              "url": "STA320 统计学习/Assignment Doc/12112627_李乐平_Homework1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Homework2.pdf",
+              "url": "STA320 统计学习/Assignment Doc/12112627_李乐平_Homework2.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Homework3.pdf",
+              "url": "STA320 统计学习/Assignment Doc/12112627_李乐平_Homework3.pdf"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "如需期末题库请私信我.txt",
+          "url": "STA320 统计学习/如需期末题库请私信我.txt"
+        }
+      ]
+    },
+    {
+      "name": "STA321 分布式存储与并行计算",
+      "path": "STA321 分布式存储与并行计算",
+      "directories": [
+        {
+          "name": "Assignment",
+          "path": "STA321 分布式存储与并行计算/Assignment",
+          "directories": [],
+          "files": [
+            {
+              "name": "Homework1_12112627_李乐平.pdf",
+              "url": "STA321 分布式存储与并行计算/Assignment/Homework1_12112627_李乐平.pdf"
+            },
+            {
+              "name": "Homework2_12112627_李乐平.pdf",
+              "url": "STA321 分布式存储与并行计算/Assignment/Homework2_12112627_李乐平.pdf"
+            },
+            {
+              "name": "Homework3_12112627_李乐平.pdf",
+              "url": "STA321 分布式存储与并行计算/Assignment/Homework3_12112627_李乐平.pdf"
+            },
+            {
+              "name": "Homework4_12112627_李乐平.pdf",
+              "url": "STA321 分布式存储与并行计算/Assignment/Homework4_12112627_李乐平.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Cheating Paper",
+          "path": "STA321 分布式存储与并行计算/Cheating Paper",
+          "directories": [],
+          "files": [
+            {
+              "name": "Cheating paper for DSPC midterm.pdf",
+              "url": "STA321 分布式存储与并行计算/Cheating Paper/Cheating paper for DSPC midterm.pdf"
+            },
+            {
+              "name": "如需word版请私信我.txt",
+              "url": "STA321 分布式存储与并行计算/Cheating Paper/如需word版请私信我.txt"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "STA323 大数据分析及应用",
+      "path": "STA323 大数据分析及应用",
+      "directories": [
+        {
+          "name": "Assignment Code",
+          "path": "STA323 大数据分析及应用/Assignment Code",
+          "directories": [
+            {
+              "name": "Assignment 3",
+              "path": "STA323 大数据分析及应用/Assignment Code/Assignment 3",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Homework3.ipynb",
+                  "url": "STA323 大数据分析及应用/Assignment Code/Assignment 3/12112627_李乐平_Homework3.ipynb"
+                },
+                {
+                  "name": "q3.sh",
+                  "url": "STA323 大数据分析及应用/Assignment Code/Assignment 3/q3.sh"
+                },
+                {
+                  "name": "q3_producer.py",
+                  "url": "STA323 大数据分析及应用/Assignment Code/Assignment 3/q3_producer.py"
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment1.ipynb",
+              "url": "STA323 大数据分析及应用/Assignment Code/12112627_李乐平_Assignment1.ipynb"
+            },
+            {
+              "name": "12112627_李乐平_Assignment2.ipynb",
+              "url": "STA323 大数据分析及应用/Assignment Code/12112627_李乐平_Assignment2.ipynb"
+            },
+            {
+              "name": "12112627_李乐平_Assignment4.ipynb",
+              "url": "STA323 大数据分析及应用/Assignment Code/12112627_李乐平_Assignment4.ipynb"
+            }
+          ]
+        },
+        {
+          "name": "Assignment Doc",
+          "path": "STA323 大数据分析及应用/Assignment Doc",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment_1.pdf",
+              "url": "STA323 大数据分析及应用/Assignment Doc/12112627_李乐平_Assignment_1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment_2.pdf",
+              "url": "STA323 大数据分析及应用/Assignment Doc/12112627_李乐平_Assignment_2.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment_3.pdf",
+              "url": "STA323 大数据分析及应用/Assignment Doc/12112627_李乐平_Assignment_3.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment_4.pdf",
+              "url": "STA323 大数据分析及应用/Assignment Doc/12112627_李乐平_Assignment_4.pdf"
+            },
+            {
+              "name": "12112627_李乐平_课前五分钟.pptx",
+              "url": "STA323 大数据分析及应用/Assignment Doc/12112627_李乐平_课前五分钟.pptx"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "STA5007 高级自然语言处理",
+      "path": "STA5007 高级自然语言处理",
+      "directories": [
+        {
+          "name": "Assignment Code",
+          "path": "STA5007 高级自然语言处理/Assignment Code",
+          "directories": [
+            {
+              "name": "Assignment 1",
+              "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 1",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_ass1.ipynb",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 1/12112627_李乐平_ass1.ipynb"
+                },
+                {
+                  "name": "Q2_data.model",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 1/Q2_data.model"
+                },
+                {
+                  "name": "Q2_data.txt",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 1/Q2_data.txt"
+                },
+                {
+                  "name": "Q2_data.vocab",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 1/Q2_data.vocab"
+                },
+                {
+                  "name": "tokenized_Q2_data.txt",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 1/tokenized_Q2_data.txt"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 2",
+              "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 2",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Homework2.ipynb",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 2/12112627_李乐平_Homework2.ipynb"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 3",
+              "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 3",
+              "directories": [
+                {
+                  "name": "Q1_MRPC_dataset",
+                  "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_MRPC_dataset",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "README.md",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_MRPC_dataset/README.md"
+                    },
+                    {
+                      "name": "create_dataset.py",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_MRPC_dataset/create_dataset.py"
+                    },
+                    {
+                      "name": "test.jsonl",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_MRPC_dataset/test.jsonl"
+                    },
+                    {
+                      "name": "train.jsonl",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_MRPC_dataset/train.jsonl"
+                    },
+                    {
+                      "name": "validation.jsonl",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_MRPC_dataset/validation.jsonl"
+                    }
+                  ]
+                },
+                {
+                  "name": "Q1_model_checkpoint_tinybert",
+                  "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_model_checkpoint_tinybert",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "README.md",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_model_checkpoint_tinybert/README.md"
+                    },
+                    {
+                      "name": "vocab.txt",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/Q1_model_checkpoint_tinybert/vocab.txt"
+                    }
+                  ]
+                },
+                {
+                  "name": "accuracy",
+                  "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/accuracy",
+                  "directories": [
+                    {
+                      "name": "__pycache__",
+                      "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/accuracy/__pycache__",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "accuracy.cpython-310.pyc",
+                          "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/accuracy/__pycache__/accuracy.cpython-310.pyc"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "accuracy.py",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/accuracy/accuracy.py"
+                    }
+                  ]
+                },
+                {
+                  "name": "results",
+                  "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/results",
+                  "directories": [],
+                  "files": []
+                }
+              ],
+              "files": [
+                {
+                  "name": "12112627_李乐平.ipynb",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/12112627_李乐平.ipynb"
+                },
+                {
+                  "name": "12112627_李乐平_assignment3.ipynb",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 3/12112627_李乐平_assignment3.ipynb"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 4",
+              "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 4",
+              "directories": [
+                {
+                  "name": "Q2_flan_t5_small_ckpt",
+                  "path": "STA5007 高级自然语言处理/Assignment Code/Assignment 4/Q2_flan_t5_small_ckpt",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "README.md",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 4/Q2_flan_t5_small_ckpt/README.md"
+                    },
+                    {
+                      "name": "spiece.model",
+                      "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 4/Q2_flan_t5_small_ckpt/spiece.model"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Assignment4.ipynb",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 4/12112627_李乐平_Assignment4.ipynb"
+                },
+                {
+                  "name": "flask_service.py",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 4/flask_service.py"
+                },
+                {
+                  "name": "system_prompt.txt",
+                  "url": "STA5007 高级自然语言处理/Assignment Code/Assignment 4/system_prompt.txt"
+                }
+              ]
+            }
+          ],
+          "files": [
+            {
+              "name": "请自行寻找模型文件.txt",
+              "url": "STA5007 高级自然语言处理/Assignment Code/请自行寻找模型文件.txt"
+            }
+          ]
+        },
+        {
+          "name": "Assignment Doc",
+          "path": "STA5007 高级自然语言处理/Assignment Doc",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_Assignment 1.pdf",
+              "url": "STA5007 高级自然语言处理/Assignment Doc/12112627_李乐平_Assignment 1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment 2.pdf",
+              "url": "STA5007 高级自然语言处理/Assignment Doc/12112627_李乐平_Assignment 2.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment 3.pdf",
+              "url": "STA5007 高级自然语言处理/Assignment Doc/12112627_李乐平_Assignment 3.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Assignment 4.pdf",
+              "url": "STA5007 高级自然语言处理/Assignment Doc/12112627_李乐平_Assignment 4.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Project",
+          "path": "STA5007 高级自然语言处理/Project",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平 Project 1.pptx",
+              "url": "STA5007 高级自然语言处理/Project/12112627_李乐平 Project 1.pptx"
+            },
+            {
+              "name": "12112627_李乐平 Project 2.pptx",
+              "url": "STA5007 高级自然语言处理/Project/12112627_李乐平 Project 2.pptx"
+            },
+            {
+              "name": "12112627_李乐平_Project 1.pdf",
+              "url": "STA5007 高级自然语言处理/Project/12112627_李乐平_Project 1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Project 2.pdf",
+              "url": "STA5007 高级自然语言处理/Project/12112627_李乐平_Project 2.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "STA5103 统计前沿选讲III",
+      "path": "STA5103 统计前沿选讲III",
+      "directories": [
+        {
+          "name": "Assignment Code",
+          "path": "STA5103 统计前沿选讲III/Assignment Code",
+          "directories": [
+            {
+              "name": "Assignment 3_12112627",
+              "path": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627",
+              "directories": [
+                {
+                  "name": "extracted_frames",
+                  "path": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "frame_0000.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0000.png"
+                    },
+                    {
+                      "name": "frame_0001.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0001.png"
+                    },
+                    {
+                      "name": "frame_0002.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0002.png"
+                    },
+                    {
+                      "name": "frame_0003.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0003.png"
+                    },
+                    {
+                      "name": "frame_0004.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0004.png"
+                    },
+                    {
+                      "name": "frame_0005.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0005.png"
+                    },
+                    {
+                      "name": "frame_0006.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0006.png"
+                    },
+                    {
+                      "name": "frame_0007.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0007.png"
+                    },
+                    {
+                      "name": "frame_0008.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0008.png"
+                    },
+                    {
+                      "name": "frame_0009.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0009.png"
+                    },
+                    {
+                      "name": "frame_0010.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0010.png"
+                    },
+                    {
+                      "name": "frame_0011.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0011.png"
+                    },
+                    {
+                      "name": "frame_0012.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0012.png"
+                    },
+                    {
+                      "name": "frame_0013.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0013.png"
+                    },
+                    {
+                      "name": "frame_0014.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0014.png"
+                    },
+                    {
+                      "name": "frame_0015.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0015.png"
+                    },
+                    {
+                      "name": "frame_0016.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0016.png"
+                    },
+                    {
+                      "name": "frame_0017.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0017.png"
+                    },
+                    {
+                      "name": "frame_0018.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0018.png"
+                    },
+                    {
+                      "name": "frame_0019.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0019.png"
+                    },
+                    {
+                      "name": "frame_0020.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0020.png"
+                    },
+                    {
+                      "name": "frame_0021.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0021.png"
+                    },
+                    {
+                      "name": "frame_0022.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0022.png"
+                    },
+                    {
+                      "name": "frame_0023.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0023.png"
+                    },
+                    {
+                      "name": "frame_0024.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0024.png"
+                    },
+                    {
+                      "name": "frame_0025.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0025.png"
+                    },
+                    {
+                      "name": "frame_0026.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0026.png"
+                    },
+                    {
+                      "name": "frame_0027.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0027.png"
+                    },
+                    {
+                      "name": "frame_0028.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0028.png"
+                    },
+                    {
+                      "name": "frame_0029.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0029.png"
+                    },
+                    {
+                      "name": "frame_0030.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0030.png"
+                    },
+                    {
+                      "name": "frame_0031.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0031.png"
+                    },
+                    {
+                      "name": "frame_0032.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0032.png"
+                    },
+                    {
+                      "name": "frame_0033.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0033.png"
+                    },
+                    {
+                      "name": "frame_0034.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0034.png"
+                    },
+                    {
+                      "name": "frame_0035.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0035.png"
+                    },
+                    {
+                      "name": "frame_0036.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0036.png"
+                    },
+                    {
+                      "name": "frame_0037.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0037.png"
+                    },
+                    {
+                      "name": "frame_0038.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0038.png"
+                    },
+                    {
+                      "name": "frame_0039.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0039.png"
+                    },
+                    {
+                      "name": "frame_0040.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0040.png"
+                    },
+                    {
+                      "name": "frame_0041.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0041.png"
+                    },
+                    {
+                      "name": "frame_0042.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0042.png"
+                    },
+                    {
+                      "name": "frame_0043.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0043.png"
+                    },
+                    {
+                      "name": "frame_0044.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0044.png"
+                    },
+                    {
+                      "name": "frame_0045.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0045.png"
+                    },
+                    {
+                      "name": "frame_0046.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0046.png"
+                    },
+                    {
+                      "name": "frame_0047.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0047.png"
+                    },
+                    {
+                      "name": "frame_0048.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0048.png"
+                    },
+                    {
+                      "name": "frame_0049.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0049.png"
+                    },
+                    {
+                      "name": "frame_0050.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0050.png"
+                    },
+                    {
+                      "name": "frame_0051.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0051.png"
+                    },
+                    {
+                      "name": "frame_0052.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0052.png"
+                    },
+                    {
+                      "name": "frame_0053.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0053.png"
+                    },
+                    {
+                      "name": "frame_0054.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0054.png"
+                    },
+                    {
+                      "name": "frame_0055.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0055.png"
+                    },
+                    {
+                      "name": "frame_0056.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0056.png"
+                    },
+                    {
+                      "name": "frame_0057.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0057.png"
+                    },
+                    {
+                      "name": "frame_0058.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0058.png"
+                    },
+                    {
+                      "name": "frame_0059.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0059.png"
+                    },
+                    {
+                      "name": "frame_0060.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0060.png"
+                    },
+                    {
+                      "name": "frame_0061.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0061.png"
+                    },
+                    {
+                      "name": "frame_0062.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0062.png"
+                    },
+                    {
+                      "name": "frame_0063.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/extracted_frames/frame_0063.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "high_res_frames",
+                  "path": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames",
+                  "directories": [],
+                  "files": [
+                    {
+                      "name": "high_res_frame_0000.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0000.png"
+                    },
+                    {
+                      "name": "high_res_frame_0001.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0001.png"
+                    },
+                    {
+                      "name": "high_res_frame_0002.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0002.png"
+                    },
+                    {
+                      "name": "high_res_frame_0003.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0003.png"
+                    },
+                    {
+                      "name": "high_res_frame_0004.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0004.png"
+                    },
+                    {
+                      "name": "high_res_frame_0005.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0005.png"
+                    },
+                    {
+                      "name": "high_res_frame_0006.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0006.png"
+                    },
+                    {
+                      "name": "high_res_frame_0007.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0007.png"
+                    },
+                    {
+                      "name": "high_res_frame_0008.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0008.png"
+                    },
+                    {
+                      "name": "high_res_frame_0009.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0009.png"
+                    },
+                    {
+                      "name": "high_res_frame_0010.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0010.png"
+                    },
+                    {
+                      "name": "high_res_frame_0011.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0011.png"
+                    },
+                    {
+                      "name": "high_res_frame_0012.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0012.png"
+                    },
+                    {
+                      "name": "high_res_frame_0013.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0013.png"
+                    },
+                    {
+                      "name": "high_res_frame_0014.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0014.png"
+                    },
+                    {
+                      "name": "high_res_frame_0015.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0015.png"
+                    },
+                    {
+                      "name": "high_res_frame_0016.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0016.png"
+                    },
+                    {
+                      "name": "high_res_frame_0017.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0017.png"
+                    },
+                    {
+                      "name": "high_res_frame_0018.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0018.png"
+                    },
+                    {
+                      "name": "high_res_frame_0019.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0019.png"
+                    },
+                    {
+                      "name": "high_res_frame_0020.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0020.png"
+                    },
+                    {
+                      "name": "high_res_frame_0021.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0021.png"
+                    },
+                    {
+                      "name": "high_res_frame_0022.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0022.png"
+                    },
+                    {
+                      "name": "high_res_frame_0023.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0023.png"
+                    },
+                    {
+                      "name": "high_res_frame_0024.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0024.png"
+                    },
+                    {
+                      "name": "high_res_frame_0025.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0025.png"
+                    },
+                    {
+                      "name": "high_res_frame_0026.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0026.png"
+                    },
+                    {
+                      "name": "high_res_frame_0027.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0027.png"
+                    },
+                    {
+                      "name": "high_res_frame_0028.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0028.png"
+                    },
+                    {
+                      "name": "high_res_frame_0029.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0029.png"
+                    },
+                    {
+                      "name": "high_res_frame_0030.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0030.png"
+                    },
+                    {
+                      "name": "high_res_frame_0031.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0031.png"
+                    },
+                    {
+                      "name": "high_res_frame_0032.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0032.png"
+                    },
+                    {
+                      "name": "high_res_frame_0033.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0033.png"
+                    },
+                    {
+                      "name": "high_res_frame_0034.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0034.png"
+                    },
+                    {
+                      "name": "high_res_frame_0035.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0035.png"
+                    },
+                    {
+                      "name": "high_res_frame_0036.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0036.png"
+                    },
+                    {
+                      "name": "high_res_frame_0037.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0037.png"
+                    },
+                    {
+                      "name": "high_res_frame_0038.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0038.png"
+                    },
+                    {
+                      "name": "high_res_frame_0039.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0039.png"
+                    },
+                    {
+                      "name": "high_res_frame_0040.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0040.png"
+                    },
+                    {
+                      "name": "high_res_frame_0041.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0041.png"
+                    },
+                    {
+                      "name": "high_res_frame_0042.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0042.png"
+                    },
+                    {
+                      "name": "high_res_frame_0043.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0043.png"
+                    },
+                    {
+                      "name": "high_res_frame_0044.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0044.png"
+                    },
+                    {
+                      "name": "high_res_frame_0045.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0045.png"
+                    },
+                    {
+                      "name": "high_res_frame_0046.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0046.png"
+                    },
+                    {
+                      "name": "high_res_frame_0047.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0047.png"
+                    },
+                    {
+                      "name": "high_res_frame_0048.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0048.png"
+                    },
+                    {
+                      "name": "high_res_frame_0049.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0049.png"
+                    },
+                    {
+                      "name": "high_res_frame_0050.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0050.png"
+                    },
+                    {
+                      "name": "high_res_frame_0051.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0051.png"
+                    },
+                    {
+                      "name": "high_res_frame_0052.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0052.png"
+                    },
+                    {
+                      "name": "high_res_frame_0053.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0053.png"
+                    },
+                    {
+                      "name": "high_res_frame_0054.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0054.png"
+                    },
+                    {
+                      "name": "high_res_frame_0055.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0055.png"
+                    },
+                    {
+                      "name": "high_res_frame_0056.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0056.png"
+                    },
+                    {
+                      "name": "high_res_frame_0057.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0057.png"
+                    },
+                    {
+                      "name": "high_res_frame_0058.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0058.png"
+                    },
+                    {
+                      "name": "high_res_frame_0059.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0059.png"
+                    },
+                    {
+                      "name": "high_res_frame_0060.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0060.png"
+                    },
+                    {
+                      "name": "high_res_frame_0061.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0061.png"
+                    },
+                    {
+                      "name": "high_res_frame_0062.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0062.png"
+                    },
+                    {
+                      "name": "high_res_frame_0063.png",
+                      "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/high_res_frames/high_res_frame_0063.png"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "cargray.avi",
+                  "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/cargray.avi"
+                },
+                {
+                  "name": "newcargray.avi",
+                  "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/newcargray.avi"
+                },
+                {
+                  "name": "script.py",
+                  "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 3_12112627/script.py"
+                }
+              ]
+            },
+            {
+              "name": "Assignment 4_12112627",
+              "path": "STA5103 统计前沿选讲III/Assignment Code/Assignment 4_12112627",
+              "directories": [],
+              "files": [
+                {
+                  "name": "denoised.jpg",
+                  "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 4_12112627/denoised.jpg"
+                },
+                {
+                  "name": "nl_mean.py",
+                  "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 4_12112627/nl_mean.py"
+                },
+                {
+                  "name": "noisy.jpg",
+                  "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 4_12112627/noisy.jpg"
+                },
+                {
+                  "name": "origin.jpg",
+                  "url": "STA5103 统计前沿选讲III/Assignment Code/Assignment 4_12112627/origin.jpg"
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
+          "name": "Assignment Doc",
+          "path": "STA5103 统计前沿选讲III/Assignment Doc",
+          "directories": [],
+          "files": [
+            {
+              "name": "12112627_李乐平_Homework1.pdf",
+              "url": "STA5103 统计前沿选讲III/Assignment Doc/12112627_李乐平_Homework1.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Homework2.pdf",
+              "url": "STA5103 统计前沿选讲III/Assignment Doc/12112627_李乐平_Homework2.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Homework3.pdf",
+              "url": "STA5103 统计前沿选讲III/Assignment Doc/12112627_李乐平_Homework3.pdf"
+            },
+            {
+              "name": "12112627_李乐平_Homework4.pdf",
+              "url": "STA5103 统计前沿选讲III/Assignment Doc/12112627_李乐平_Homework4.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    }
+  ],
+  "files": []
+}
