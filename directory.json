@@ -3,6 +3,24 @@
   "path": "",
   "directories": [
     {
+      "name": "CS203B 数据结构与算法分析B",
+      "path": "CS203B 数据结构与算法分析B",
+      "directories": [
+        {
+          "name": "Cheating Paper",
+          "path": "CS203B 数据结构与算法分析B/Cheating Paper",
+          "directories": [],
+          "files": [
+            {
+              "name": "Cheating Paper.pdf",
+              "url": "CS203B 数据结构与算法分析B/Cheating Paper/Cheating Paper.pdf"
+            }
+          ]
+        }
+      ],
+      "files": []
+    },
+    {
       "name": "CS309 面向对象分析与设计",
       "path": "CS309 面向对象分析与设计",
       "directories": [
@@ -2196,18 +2214,6 @@
                 {
                   "name": "12112627_李乐平.Rmd",
                   "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平.Rmd"
-                },
-                {
-                  "name": "12112627_李乐平.docx",
-                  "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平.docx"
-                },
-                {
-                  "name": "12112627_李乐平_Homework2(ROC plots supplemented).pdf",
-                  "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平_Homework2(ROC plots supplemented).pdf"
-                },
-                {
-                  "name": "12112627_李乐平_Homework2_backup.pdf",
-                  "url": "STA320 统计学习/Assignment Code/Assignment 2/12112627_李乐平_Homework2_backup.pdf"
                 },
                 {
                   "name": "Heart.csv",

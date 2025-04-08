@@ -31,7 +31,6 @@
             height: 100vh;
             position: relative;
         }
-        /* 封面页面 */
         
         #cover {
             overflow: hidden;
@@ -86,18 +85,16 @@
             white-space: nowrap;
         }
         #quote {
-            font-size: 20px; /* 更小的字体 */
+            font-size: 20px;
             color: white;
             text-align: center;
             position: absolute;
-            bottom: 20px; /* 调整到页面底部 */
+            bottom: 20px;
             width: 100%;
             font-style: italic;
-            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); /* 给文字加点阴影提高可读性 */
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
         }
 
-
-        /* 内容页面 */
         #content {
             overflow-y: auto;
             padding: 40px 20px;
@@ -109,7 +106,7 @@
             font-weight: 700;
             margin-bottom: 20px;
         }
-        /* 返回上级目录按钮 */
+
         .back-btn {
             display: flex;
             margin: 10px auto;
@@ -148,7 +145,6 @@
         .file-container {
             display: flex;
             gap: 10px;
-            /* align-items: center; */
             justify-content: center;
         }
         .column {
@@ -164,7 +160,7 @@
             margin-bottom: 10px;
             color: #5a4a42;
         }
-        /* 目录和文件列表 */
+
         .directory, .file-list {
             list-style: none;
             padding: 0;
@@ -181,12 +177,13 @@
             cursor: default;
             transition: 0.3s;
         }
+
         .directory li:hover, .file-list li:hover {
             background: #F4DDDF;
             box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
             transform: translateY(-2px);
         }
-        /* 使整个矩形区域可点击 */
+
         .file-list li a {
             display: block;
             width: 100%;
@@ -194,13 +191,11 @@
             text-decoration: none;
             color: inherit;
             cursor: default;
-            /* padding: 8px; */
         }
     </style>
     <script src="quotes.js"></script>
 </head>
 <body>
-    <!-- 封面 -->
     <section id="cover" class="section">
         <div class="bg" id="cover-bg"></div>
         <div class="overlay"></div>
@@ -211,7 +206,6 @@
         <div id="quote" class="quote"></div>
     </section>
 
-    <!-- 内容页面 -->
     <section id="content" class="section">
         <h1>SUSTech Stat-DS Archive</h1>
         <div id="current-path"></div>
@@ -282,7 +276,6 @@
         function renderDirectory(node) {
             directoryContainer.innerHTML = '';
 
-            // 返回按钮
             const backBtn = document.createElement('div');
             backBtn.className = 'back-btn';
             if (pathStack.length === 0) {
@@ -298,7 +291,6 @@
             }
             directoryContainer.appendChild(backBtn);
 
-            // 两栏容器
             const fileContainer = document.createElement('div');
             fileContainer.className = 'file-container';
 
@@ -307,8 +299,7 @@
             dirColumn.innerHTML = '<h2>📂 文件夹 Directories</h2>';
             const dirList = document.createElement('ul');
             dirList.className = 'directory';
-            
-            // 目录项
+
             (node.directories || []).forEach(dir => {
                 const li = document.createElement('li');
                 li.textContent = dir.name;
@@ -326,8 +317,6 @@
                 fileColumn.innerHTML = '<h2>📜 文件 Files</h2>';
                 fileList = document.createElement('ul');
                 fileList.className = 'file-list';
-
-                // 文件项
                 (node.files || []).forEach(file => {
                     const li = document.createElement('li');
                     const link = document.createElement('a');
@@ -343,25 +332,22 @@
                 disclaimer.style.color = '#5a4a42';
                 disclaimer.style.fontSize = '0.95em';
                 disclaimer.innerHTML = `
+                    <style>
+                        p {
+                            text-indent: 2em;
+                        }
+                    </style>
                     <h3>📜 使用说明与免责声明 Instructions and Disclaimer</h3>
-                    <p>本网页由<a href="https://Estraie.github.io" target="_blank" style="color: #347834; text-decoration: none;">Estraie</a>制作，旨在收集统计与数据科学系相关课程的作业答案，以帮助一些数学/代码苦手渡过难关。但请注意：<strong>本人不能保证网站上答案的正确性。你应该首先自己思考题目的解法，即使参考答案也需要用自己的方式检查、复现一遍。</strong></p>
-                    <br>
+                    <p>本网页由<a href="https://Estraie.github.io" target="_blank" style="color: #347834; text-decoration: none;">Estraie</a>制作，旨在收集统计与数据科学系相关课程的作业答案和Cheating Paper，以帮助一些数学/代码苦手渡过难关。但请注意：<strong>本人不能保证网站上答案的正确性。你应该首先自己思考题目的解法，即使参考答案也需要用自己的方式检查、复现一遍。</strong></p>
                     <p>欢迎各位同学通过Pull Request或通过QQ、邮箱（<a href="#" class="email" style="color: #347834; text-decoration: none;">li_leping@qq.com</a>）等方式直接联系我，共同建设<a href="https://github.com/Estraie/SUSTechStatDSArchive" target="_blank" style="color: #347834; text-decoration: none;">本仓库</a>！</p>
-                    <br>
                     <p>关于课件、官方答案等内容，可能老师会介意其被公开，因此本网页暂时没有收录。如有需要，可直接联系我。</p>
-                    <br>
                     <p>本网页暂时没有设置批量下载功能，这是因为我依然希望你们独立完成作业。<del>绝对不是我不会写批量下载功能。</del></p>
-                    <br>
                     <p>如果你认为本网页的内容有帮助到你，欢迎你通过我的邮箱告知我，这会让我枯燥的生活增添一丝色彩。</p>
                     <br>
-                    <p>This website is created by <a href="https://Estraie.github.io" target="_blank" style="color: #347834; text-decoration: none;">Estraie</a>, aiming to collect answers for assignments from courses related to statistics and data science, to help students struggling with mathematics or coding. However, please note: <strong>The correctness of answers on this page is not guaranteed. You should first think about the problem-solving approach on your own, even if you refer to answers, you should verify and replicate them in your own way.</strong></p>
-                    <br>
+                    <p>This website is created by <a href="https://Estraie.github.io" target="_blank" style="color: #347834; text-decoration: none;">Estraie</a>, aiming to collect answers for assignments and cheating papers from courses related to statistics and data science, to help students struggling with mathematics or coding. However, please note: <strong>The correctness of answers on this page is not guaranteed. You should first think about the problem-solving approach on your own, even if you refer to answers, you should verify and replicate them in your own way.</strong></p>
                     <p>Feel free to contact me directly through Pull Requests or via QQ, email (<a href="#" class="email" style="color: #347834; text-decoration: none;">li_leping@qq.com</a>), etc. to contribute to the development of <a href="https://github.com/Estraie/SUSTechStatDSArchive" target="_blank" style="color: #347834; text-decoration: none;">this repository!</a></p>
-                    <br>
                     <p>Regarding course materials, official answers, etc., teachers may not be comfortable with them being publicly available, so they are not included in this repository for now. If needed, feel free to contact me directly.</p>
-                    <br>
                     <p>This website does not currently have a bulk download feature, as I still hope you will complete assignments independently. <del>It's definitely not because I can't write the bulk download feature.</del></p>
-                    <br>
                     <p>If you find the content of this website helpful, feel free to let me know via my email. It would bring some color to my dull life.</p>
                 `;
                 fileColumn.appendChild(disclaimer);
@@ -400,7 +386,6 @@
             return node || rootTree;
         }
 
-        // 初始化加载 JSON
         fetch('directory.json')
             .then(res => res.json())
             .then(data => {
@@ -413,124 +398,5 @@
                 directoryContainer.innerHTML = '❌ 加载目录失败 / Failed to load directory.';
             });
     </script>
-    
-
-    <!-- <script>
-        document.addEventListener("mousemove", (e) => {
-            const bg = document.getElementById("cover-bg");
-            const moveX = (window.innerWidth / 2 - e.clientX) * 0.02;
-            const moveY = (window.innerHeight / 2 - e.clientY) * 0.02;
-            bg.style.transform = `translate(-50%, -50%) translate(${moveX}px, ${moveY}px)`;
-        });
-
-        let isScrolling = false;
-        let fileStructure = {};
-        window.addEventListener('wheel', function(e) {
-            if (isScrolling) return;
-            const cover = document.getElementById('cover');
-            const content = document.getElementById('content');
-            if (window.pageYOffset < cover.offsetHeight / 2 && e.deltaY > 0) {
-                isScrolling = true;
-                content.scrollIntoView({ behavior: "smooth" });
-                setTimeout(() => { isScrolling = false; }, 1000);
-            } else if (window.pageYOffset >= cover.offsetHeight / 2 && e.deltaY < 0 && content.scrollTop <= 0) {
-                isScrolling = true;
-                cover.scrollIntoView({ behavior: "smooth" });
-                setTimeout(() => { isScrolling = false; }, 1000);
-            }
-            });
-
-            const owner = 'Estraie';
-            const repo = 'CelestialReverie';
-            let currentPath = '';
-
-            function fetchDirectory(path) {
-            // 如果缓存中已经有这个目录结构，直接从缓存读取
-            if (fileStructure[path]) {
-                displayDirectory(fileStructure[path], path);
-            } else {
-                const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
-                fetch(url)
-                .then(response => response.json())
-                .then(data => {
-                    fileStructure[path] = data; // 缓存目录数据
-                    displayDirectory(data, path);
-                })
-                .catch(error => {
-                    console.error('Error fetching directory:', error);
-                    document.getElementById('directory').innerHTML = '加载失败 / Error loading.';
-                });
-            }
-        }
-
-        function displayDirectory(data, path) {
-            const container = document.getElementById('directory');
-            container.innerHTML = '';
-
-            if (path) {
-                const parentPath = path.split('/').slice(0, -1).join('/');
-                const upButton = document.createElement('div');
-                upButton.className = "back-btn";
-                upButton.textContent = "返回 Go up";
-                upButton.addEventListener('click', function() {
-                    currentPath = parentPath;
-                    fetchDirectory(parentPath);
-                });
-                container.appendChild(upButton);
-            } else {
-                const upButton = document.createElement('div');
-                upButton.className = "back-btn";
-                upButton.textContent = "Estraie的主页";
-                upButton.addEventListener('click', function() {
-                    window.open('https://Estraie.github.io', '_blank');
-                });
-                container.appendChild(upButton);
-            }
-
-            const fileContainer = document.createElement('div');
-            fileContainer.className = 'file-container';
-
-            const dirColumn = document.createElement('div');
-            dirColumn.className = 'column';
-            dirColumn.innerHTML = '<h2>📂 文件夹 Directories</h2>';
-            
-            const fileColumn = document.createElement('div');
-            fileColumn.className = 'column';
-            fileColumn.innerHTML = '<h2>📜 文件 Files</h2>';
-
-            const dirList = document.createElement('ul');
-            dirList.className = 'directory';
-
-            const fileList = document.createElement('ul');
-            fileList.className = 'file-list';
-
-            data.forEach(item => {
-                const li = document.createElement('li');
-                if (item.type === 'dir') {
-                    li.textContent = item.name;
-                    li.addEventListener('click', function() {
-                        currentPath = path ? path + '/' + item.name : item.name;
-                        fetchDirectory(currentPath); // 使用缓存加载
-                    });
-                    dirList.appendChild(li);
-                } else if (item.type === 'file') {
-                    const link = document.createElement('a');
-                    link.href = item.download_url;
-                    link.target = "_blank";
-                    link.textContent = item.name;
-                    li.appendChild(link);
-                    fileList.appendChild(li);
-                }
-            });
-
-            dirColumn.appendChild(dirList);
-            fileColumn.appendChild(fileList);
-            fileContainer.appendChild(dirColumn);
-            fileContainer.appendChild(fileColumn);
-            container.appendChild(fileContainer);
-        }
-
-        fetchDirectory('');
-    </script> -->
 </body>
 </html>
