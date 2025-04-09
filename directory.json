@@ -2400,6 +2400,218 @@
               "url": "STA323 大数据分析及应用/Assignment Doc/12112627_李乐平_课前五分钟.pptx"
             }
           ]
+        },
+        {
+          "name": "Project",
+          "path": "STA323 大数据分析及应用/Project",
+          "directories": [
+            {
+              "name": "Project1",
+              "path": "STA323 大数据分析及应用/Project/Project1",
+              "directories": [],
+              "files": [
+                {
+                  "name": "12112627_李乐平_Project1.pdf",
+                  "url": "STA323 大数据分析及应用/Project/Project1/12112627_李乐平_Project1.pdf"
+                },
+                {
+                  "name": "12112627_李乐平_Project1.pptx",
+                  "url": "STA323 大数据分析及应用/Project/Project1/12112627_李乐平_Project1.pptx"
+                },
+                {
+                  "name": "articles.zip",
+                  "url": "STA323 大数据分析及应用/Project/Project1/articles.zip"
+                },
+                {
+                  "name": "main.ipynb",
+                  "url": "STA323 大数据分析及应用/Project/Project1/main.ipynb"
+                },
+                {
+                  "name": "output.zip",
+                  "url": "STA323 大数据分析及应用/Project/Project1/output.zip"
+                },
+                {
+                  "name": "project_1.pdf",
+                  "url": "STA323 大数据分析及应用/Project/Project1/project_1.pdf"
+                },
+                {
+                  "name": "task1.ipynb",
+                  "url": "STA323 大数据分析及应用/Project/Project1/task1.ipynb"
+                },
+                {
+                  "name": "task2_filter_paragraph.ipynb",
+                  "url": "STA323 大数据分析及应用/Project/Project1/task2_filter_paragraph.ipynb"
+                },
+                {
+                  "name": "task2_make_txt.ipynb",
+                  "url": "STA323 大数据分析及应用/Project/Project1/task2_make_txt.ipynb"
+                },
+                {
+                  "name": "task2_wordcloud.ipynb",
+                  "url": "STA323 大数据分析及应用/Project/Project1/task2_wordcloud.ipynb"
+                }
+              ]
+            },
+            {
+              "name": "Project2",
+              "path": "STA323 大数据分析及应用/Project/Project2",
+              "directories": [
+                {
+                  "name": "task1",
+                  "path": "STA323 大数据分析及应用/Project/Project2/task1",
+                  "directories": [
+                    {
+                      "name": "data",
+                      "path": "STA323 大数据分析及应用/Project/Project2/task1/data",
+                      "directories": [
+                        {
+                          "name": "Task1",
+                          "path": "STA323 大数据分析及应用/Project/Project2/task1/data/Task1",
+                          "directories": [
+                            {
+                              "name": "flan-t5-small",
+                              "path": "STA323 大数据分析及应用/Project/Project2/task1/data/Task1/flan-t5-small",
+                              "directories": [],
+                              "files": [
+                                {
+                                  "name": "spiece.model",
+                                  "url": "STA323 大数据分析及应用/Project/Project2/task1/data/Task1/flan-t5-small/spiece.model"
+                                },
+                                {
+                                  "name": "此处放置pytorch_model.bin，因文件太大不做上传.txt",
+                                  "url": "STA323 大数据分析及应用/Project/Project2/task1/data/Task1/flan-t5-small/此处放置pytorch_model.bin，因文件太大不做上传.txt"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "squad_v2",
+                              "path": "STA323 大数据分析及应用/Project/Project2/task1/data/Task1/squad_v2",
+                              "directories": [
+                                {
+                                  "name": "squad_v2",
+                                  "path": "STA323 大数据分析及应用/Project/Project2/task1/data/Task1/squad_v2/squad_v2",
+                                  "directories": [],
+                                  "files": [
+                                    {
+                                      "name": "此处放置程序输出的文件.txt",
+                                      "url": "STA323 大数据分析及应用/Project/Project2/task1/data/Task1/squad_v2/squad_v2/此处放置程序输出的文件.txt"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "files": []
+                            }
+                          ],
+                          "files": []
+                        }
+                      ],
+                      "files": []
+                    },
+                    {
+                      "name": "squad_v2",
+                      "path": "STA323 大数据分析及应用/Project/Project2/task1/squad_v2",
+                      "directories": [],
+                      "files": [
+                        {
+                          "name": "compute_score.py",
+                          "url": "STA323 大数据分析及应用/Project/Project2/task1/squad_v2/compute_score.py"
+                        },
+                        {
+                          "name": "squad_v2.py",
+                          "url": "STA323 大数据分析及应用/Project/Project2/task1/squad_v2/squad_v2.py"
+                        },
+                        {
+                          "name": "此处放置dev-v2.0.json和train-v2.0.json.txt",
+                          "url": "STA323 大数据分析及应用/Project/Project2/task1/squad_v2/此处放置dev-v2.0.json和train-v2.0.json.txt"
+                        }
+                      ]
+                    }
+                  ],
+                  "files": [
+                    {
+                      "name": "12112627_李乐平_sparknlp_pretrained_model.bak.ipynb",
+                      "url": "STA323 大数据分析及应用/Project/Project2/task1/12112627_李乐平_sparknlp_pretrained_model.bak.ipynb"
+                    },
+                    {
+                      "name": "12112627_李乐平_sparknlp_pretrained_model.bak2.ipynb",
+                      "url": "STA323 大数据分析及应用/Project/Project2/task1/12112627_李乐平_sparknlp_pretrained_model.bak2.ipynb"
+                    },
+                    {
+                      "name": "12112627_李乐平_sparknlp_pretrained_model.ipynb",
+                      "url": "STA323 大数据分析及应用/Project/Project2/task1/12112627_李乐平_sparknlp_pretrained_model.ipynb"
+                    },
+                    {
+                      "name": "finetune_t5.sh",
+                      "url": "STA323 大数据分析及应用/Project/Project2/task1/finetune_t5.sh"
+                    },
+                    {
+                      "name": "p2_producer.py",
+                      "url": "STA323 大数据分析及应用/Project/Project2/task1/p2_producer.py"
+                    },
+                    {
+                      "name": "run_seq2seq_qa.py",
+                      "url": "STA323 大数据分析及应用/Project/Project2/task1/run_seq2seq_qa.py"
+                    },
+                    {
+                      "name": "trainer_seq2seq_qa.py",
+                      "url": "STA323 大数据分析及应用/Project/Project2/task1/trainer_seq2seq_qa.py"
+                    }
+                  ]
+                }
+              ],
+              "files": [
+                {
+                  "name": "12112627_李乐平.zip",
+                  "url": "STA323 大数据分析及应用/Project/Project2/12112627_李乐平.zip"
+                },
+                {
+                  "name": "12112627_李乐平_Project2.docx",
+                  "url": "STA323 大数据分析及应用/Project/Project2/12112627_李乐平_Project2.docx"
+                },
+                {
+                  "name": "12112627_李乐平_Project2.pdf",
+                  "url": "STA323 大数据分析及应用/Project/Project2/12112627_李乐平_Project2.pdf"
+                },
+                {
+                  "name": "12112627_李乐平_Project2.pptx",
+                  "url": "STA323 大数据分析及应用/Project/Project2/12112627_李乐平_Project2.pptx"
+                },
+                {
+                  "name": "FlatT5.pdf",
+                  "url": "STA323 大数据分析及应用/Project/Project2/FlatT5.pdf"
+                },
+                {
+                  "name": "T5.pdf",
+                  "url": "STA323 大数据分析及应用/Project/Project2/T5.pdf"
+                },
+                {
+                  "name": "finetune_t5.sh",
+                  "url": "STA323 大数据分析及应用/Project/Project2/finetune_t5.sh"
+                },
+                {
+                  "name": "project_2.pdf",
+                  "url": "STA323 大数据分析及应用/Project/Project2/project_2.pdf"
+                },
+                {
+                  "name": "run_seq2seq_qa.py",
+                  "url": "STA323 大数据分析及应用/Project/Project2/run_seq2seq_qa.py"
+                },
+                {
+                  "name": "run_seq2seq_qa.py.bk",
+                  "url": "STA323 大数据分析及应用/Project/Project2/run_seq2seq_qa.py.bk"
+                },
+                {
+                  "name": "sigmod_spark_sql.pdf",
+                  "url": "STA323 大数据分析及应用/Project/Project2/sigmod_spark_sql.pdf"
+                },
+                {
+                  "name": "trainer_seq2seq_qa.py",
+                  "url": "STA323 大数据分析及应用/Project/Project2/trainer_seq2seq_qa.py"
+                }
+              ]
+            }
+          ],
+          "files": []
         }
       ],
       "files": []

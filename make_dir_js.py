@@ -27,7 +27,7 @@ def build_tree(base_path, rel_path=""):
             tree["directories"].append(build_tree(base_path, rel_item_path))
         elif os.path.isfile(item_path):
             if item.endswith(".json"):
-                continue  # 不包括 JSON 文件
+                continue
             tree["files"].append({
                 "name": item,
                 "url": rel_item_path
@@ -35,11 +35,11 @@ def build_tree(base_path, rel_path=""):
     return tree
 
 if __name__ == "__main__":
-    base_directory = "./courses"  # ← 替换为你的本地根目录路径
-    output_file = "directory.json"  # 最终目录树输出文件
+    base_directory = "./courses"
+    output_file = "directory.json"
 
-    print("🔍 清除旧 JSON 文件中...")
-    remove_all_json_files(base_directory)
+    #print("🔍 清除旧 JSON 文件中...")
+    #remove_all_json_files(base_directory)
 
     print("\n📁 生成目录树 JSON 中...")
     tree = build_tree(base_directory)
